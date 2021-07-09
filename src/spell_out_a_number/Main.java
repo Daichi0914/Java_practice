@@ -11,7 +11,6 @@ package spell_out_a_number;
 
 public class Main {
     public static void main(String[] args) {
-        int[] arr = {99, 300, 310, 1501, 12609, 512607, 43112603};
-        SpellOut.spellOut(arr);
+        System.out.println(SpellOut.spellOut(381954872));
     }
 }
