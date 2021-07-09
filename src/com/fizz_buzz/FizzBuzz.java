@@ -1,7 +1,7 @@
-package com.company;
+package com.fizz_buzz;
 
 public class FizzBuzz {
-    public static String[] fizzBuzz() {
+    static String[] fizzBuzz() {
         String fizz = "...Fizz...";
         String buzz = "...Buzz...";
 
